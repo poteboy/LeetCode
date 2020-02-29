@@ -1,2 +1,2 @@
 # LeetCode
-for modification purpose
+for modification purposes
