@@ -5,6 +5,7 @@
 #time complexity of getMin function is O(N) so that may be a part of the problem why it's so slow
 #In order to fix this problem it's neccessary to find a O(1) solution.
 
+#I will make an arry that keeps track of the minimum value of the input later
 
 from typing import Any
 class MinStack:
