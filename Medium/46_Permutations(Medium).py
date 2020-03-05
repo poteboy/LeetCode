@@ -10,6 +10,7 @@ class Solution:
         for i in permutations(nums):
             ans.append(list(i))
         return ans
+    #後でライブラリを使用しない解答も考える（再帰）
 
 
 if __name__ =='__main__':
