@@ -22,6 +22,14 @@ class Solution:
 
         nums.remove(None)
         return nums
+    
+    '''
+    もっと簡単なやり方
+    for _ in range(nums.count(0)): #countで指定した要素が何個あるか調べる
+            nums.append(0)
+            nums.remove(0)
+        return nums
+    '''
 
 if __name__ == "__main__":
     nums = [0,1,0,3,12]
