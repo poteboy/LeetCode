@@ -1,7 +1,6 @@
 
-#意味が分からない。
 #恐らくLeetcode史上一番簡単な問題。
-#Time Complexity O(logN)以下で探せ、とかだったら（それでも２分探索を使えばいいだけなので超簡単だが）まだわかるが、なんの指示もない。
+#Time Complexity O(logN)以下で探せ（それでも２分探索を使えばいいだけなので超簡単だが）でもなく、なんの指示もない。
 #現にLinear Searchでやっても91％のpythonユーザーより早いRun timeになった。
 
 #Runtime: 48 ms, faster than 91.00% of Python3 online submissions for Search in Rotated Sorted Array II.
