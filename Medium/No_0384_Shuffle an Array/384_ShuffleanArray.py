@@ -1,3 +1,6 @@
+#Runtime: 312 ms, faster than 75.30% of Python3 online submissions for Shuffle an Array.
+#Memory Usage: 18.2 MB, less than 100.00% of Python3 online submissions for Shuffle an Array.
+
 import random
 class Solution:
 
