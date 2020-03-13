@@ -22,3 +22,11 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |82| [Remove Duplicates from Sorted List II](/Medium/No_0082_Remove%20Duplicates%20from%20Sorted%20List%20II) |Python 3|Linked List | Medium|
 |100| [Same Tree](/Easy/No_0100_Same%20Tree) | Python 3| Tree, Recursion | Easy|
 |104| [Maximum Depth of Binary Tree](/Easy/No_0104_Maximum%20Depth%20of%20Binary%20Tree) | Python 3| Tree, Recursion | Easy|
+|136| [Single Number](/Easy/No_0136_Single%20Number)| Python 3| | Easy|
+|155| [Min Stack](/Easy/No_0155_Min%20Stack)| Python 3| Stack | Easy|
+|160| [Intersection of Two Linked Lists](/Easy/No_0160_Intersection%20of%20Two%20Linked%20Lists) | Python 3| Linked List| Easy|
+|169| [MajorityElement](/Easy/No_0169_Majority%20Element)| Python 3| | Easy|
+|189| [Rotate Array](/Easy/No_0189_Rotate%20Array) | Python 3| | Easy|
+|203|[Remove Linked List Elements](/Easy/No_0203_Remove%20Linked%20List%20Elements)| Python 3| Linked List | Easy|
+|206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | Python 3| Linked List | Easy|
+|215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python 3| | Medium|
