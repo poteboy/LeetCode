@@ -5,6 +5,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 
 
 
+
 | # | Title | Algorithm | Difficulty | 
 |---| ----- | -------- | ---------- |
 | 1 | [Two Sum](/No_0001_Two%20Sum)|  | Easy|
