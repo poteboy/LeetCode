@@ -9,4 +9,4 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |---| ----- | -------- | ---------- |
 | 1 | [Two Sum](/No_0001_Two%20Sum)|  | Easy|
 |2| [Add Two Numbers](/No_0002_Add%20Two%20Numbers)| LinkedList | Medium|
-|7| [Reverse Integer](//No_0007_Reverse%20Integer) | | Easy
+|7| [Reverse Integer](/No_0007_Reverse%20Integer) | | Easy
