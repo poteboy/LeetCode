@@ -8,7 +8,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 
 | # | Title | Language | Topics |Difficulty | 
 |---| ----- | -------- | ---------- | ---------- |
-| 1 | [Two Sum](/Easy/No_0001_Two%20Sum)| Python 3 | | <font color="Green">Easy</font>|
+| 1 | [Two Sum](/Easy/No_0001_Two%20Sum)| Python 3 | Hash Map| <font color="Green">Easy</font>|
 |2| [Add Two Numbers](/Medium/No_0002_Add%20Two%20Numbers)| Python 3 | Linked List | <font color="Orange">Medium</font> |
 |7| [Reverse Integer](/Easy/No_0007_Reverse%20Integer) | Python 3 |   | <font color="Green">Easy</font>|
 |9| [Palindrome Number](/Easy/No_0009_Palindrome%20Number) | Python 3| |<font color="Green">Easy</font>|
