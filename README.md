@@ -16,6 +16,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |21| [Merge 2 Sorted Lists](/Easy/No_0021_Merge%202%20Sorted%20Lists)| Python 3| Linked List | Easy|
 |35| [Search Insert Position](/Easy/No_0035_Search%20Insert%20Position) | Python 3| Binary Search| Easy| 
 |46| [Permutations](/Medium/No_0046_Permutations) | Python 3| | Medium|
+|50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| Python 3| | Medium|
 |67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python 3| Bitwise | Easy|
 |80| [Remove Duplicates from Sorted Array II](/Medium/No_0080_Remove%20Duplicates%20from%20Sorted%20Array%20II)| Python 3| | Medium|
 |81| [Search in Rotated Sorted Array II](/Medium/No_0081_Search%20in%20Rotated%20Sorted%20Array%20II)| Python 3| |Medium|
