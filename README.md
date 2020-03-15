@@ -33,3 +33,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |203|[Remove Linked List Elements](/Easy/No_0203_Remove%20Linked%20List%20Elements)| Python 3| Linked List | Easy|
 |206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | Python 3| Linked List | Easy|
 |215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python 3| | Medium|
+|225| [Implement Stack using Queues](/Easy/No_0225_Implement%20Stack%20using%20Queues)|Python 3| Stack| Easy|
+|232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python 3| Queue, Stack| Easy|
+|344| [Reverse String](/Easy/No_0344_Reverse%20String)| Python 3, JavaScript| | Easy|
+|384|[Shuffle an Array](/Medium/No_0384_Shuffle%20an%20Array)|Python 3| | Medium|
