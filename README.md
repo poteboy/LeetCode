@@ -35,5 +35,12 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python 3| | Medium|
 |225| [Implement Stack using Queues](/Easy/No_0225_Implement%20Stack%20using%20Queues)|Python 3| Stack| Easy|
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python 3| Queue, Stack| Easy|
+|237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python 3|Linked List| Easy|
 |344| [Reverse String](/Easy/No_0344_Reverse%20String)| Python 3, JavaScript| | Easy|
 |384|[Shuffle an Array](/Medium/No_0384_Shuffle%20an%20Array)|Python 3| | Medium|
+|412| [Fizz Buzz](/Easy/No_0412_Fizz%20Buzz)| Python 3| | Easy|
+|445| [Add Two Numbers II](/Medium/No_0445_Add%20Two%20Numbers%20II)| Python 3| Linked List| Medium|
+|485| [Max Consecutive Ones](/Easy/No_0485_Max%20Consecutive%20Ones)| Python 3| | Easy|
+|557|[Reverse Words in a String III](/Easy/No_0557_Reverse%20Words%20in%20a%20String%20III)| Python 3| | Easy|
+|700| [Search in a Binary Search Tree](/Easy/No_0700_Search%20in%20a%20Binary%20Search%20Tree)| Python 3| Binary Tree| Easy|
+
