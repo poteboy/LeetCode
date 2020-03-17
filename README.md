@@ -18,6 +18,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |46| [Permutations](/Medium/No_0046_Permutations) | Python 3| | Medium|
 |50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| Python 3| | Medium|
 |67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python 3| Bitwise | Easy|
+|75| [Sort Colors](/Easy/No_0075_Sort%20Colors)| Python 3| Sorting| Easy|
 |80| [Remove Duplicates from Sorted Array II](/Medium/No_0080_Remove%20Duplicates%20from%20Sorted%20Array%20II)| Python 3| | Medium|
 |81| [Search in Rotated Sorted Array II](/Medium/No_0081_Search%20in%20Rotated%20Sorted%20Array%20II)| Python 3| |Medium|
 |82| [Remove Duplicates from Sorted List II](/Medium/No_0082_Remove%20Duplicates%20from%20Sorted%20List%20II) |Python 3|Linked List | Medium|
