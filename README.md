@@ -39,6 +39,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python 3|Linked List| Easy|
 |263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python 3| | Easy|
 |344| [Reverse String](/Easy/No_0344_Reverse%20String)| Python 3, JavaScript| | Easy|
+|374|[Guess Number Higher or Lower](/Easy/No_0374_Guess%20Number%20Higher%20or%20Lower)| Python 3| Binary Search| Easy|
 |384|[Shuffle an Array](/Medium/No_0384_Shuffle%20an%20Array)|Python 3| | Medium|
 |412| [Fizz Buzz](/Easy/No_0412_Fizz%20Buzz)| Python 3| | Easy|
 |445| [Add Two Numbers II](/Medium/No_0445_Add%20Two%20Numbers%20II)| Python 3| Linked List| Medium|
