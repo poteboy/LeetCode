@@ -37,6 +37,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |225| [Implement Stack using Queues](/Easy/No_0225_Implement%20Stack%20using%20Queues)|Python 3| Stack| Easy|
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python 3| Queue, Stack| Easy|
 |237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python 3|Linked List| Easy|
+|263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python 3| | Easy|
 |344| [Reverse String](/Easy/No_0344_Reverse%20String)| Python 3, JavaScript| | Easy|
 |384|[Shuffle an Array](/Medium/No_0384_Shuffle%20an%20Array)|Python 3| | Medium|
 |412| [Fizz Buzz](/Easy/No_0412_Fizz%20Buzz)| Python 3| | Easy|
