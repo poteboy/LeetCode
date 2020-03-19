@@ -1,4 +1,6 @@
 
+#Runtime: 28 ms, faster than 65.08% of Python3 online submissions for Binary Tree Inorder Traversal.
+#Memory Usage: 13 MB, less than 90.16% of Python3 online submissions for Binary Tree Inorder Traversal.
 
 from typing import List
 # Definition for a binary tree node.
