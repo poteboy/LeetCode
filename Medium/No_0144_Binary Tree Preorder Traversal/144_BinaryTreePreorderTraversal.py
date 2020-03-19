@@ -68,8 +68,8 @@ if __name__ =="__main__":
 
     s = Solution()
 
-    #print(s.preorderTraversal(node1))
-    print(s.prelist(node1, []))
+    print(s.preorderTraversal(node1))
+    
     
 
         
