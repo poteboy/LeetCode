@@ -49,4 +49,4 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |485| [Max Consecutive Ones](/Easy/No_0485_Max%20Consecutive%20Ones)| Python 3| | Easy|
 |557|[Reverse Words in a String III](/Easy/No_0557_Reverse%20Words%20in%20a%20String%20III)| Python 3| | Easy|
 |700| [Search in a Binary Search Tree](/Easy/No_0700_Search%20in%20a%20Binary%20Search%20Tree)| Python 3| Binary Tree| Easy|
-
+|876| [Middle of the Linked List](/Easy/No_0876_Middle%20of%20the%20Linked%20List)| Python 3| Linked List| Easy|
