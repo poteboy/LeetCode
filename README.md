@@ -26,6 +26,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |104| [Maximum Depth of Binary Tree](/Easy/No_0104_Maximum%20Depth%20of%20Binary%20Tree) | Python 3| Binary Tree | Easy|
 |111| [Minimum Depth of Binary Tree](/Easy/No_0111_Minimum%20Depth%20of%20Binary%20Tree)| Python 3| Binary Tree| Easy|
 |136| [Single Number](/Easy/No_0136_Single%20Number)| Python 3| | Easy|
+|144| [Binary Tree Preorder Traversal](/Medium/No_0144_Binary%20Tree%20Preorder%20Traversal)| Python 3| Binary Tree| Medium|
 |153| [Find Minimum in Rotated Sorted Array](/Medium/No_0153_Find%20Minimum%20in%20Rotated%20Sorted%20Array)| Python 3| Binary Search| Medium|
 |155| [Min Stack](/Easy/No_0155_Min%20Stack)| Python 3| Stack | Easy|
 |160| [Intersection of Two Linked Lists](/Easy/No_0160_Intersection%20of%20Two%20Linked%20Lists) | Python 3| Linked List| Easy|
