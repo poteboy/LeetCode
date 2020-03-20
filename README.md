@@ -50,3 +50,4 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |557|[Reverse Words in a String III](/Easy/No_0557_Reverse%20Words%20in%20a%20String%20III)| Python 3| | Easy|
 |700| [Search in a Binary Search Tree](/Easy/No_0700_Search%20in%20a%20Binary%20Search%20Tree)| Python 3| Binary Tree| Easy|
 |876| [Middle of the Linked List](/Easy/No_0876_Middle%20of%20the%20Linked%20List)| Python 3| Linked List| Easy|
+|1365| [How Many Numbers Are Smaller Than the Current Number](/Easy/No_1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)| Python 3| | Easy|
