@@ -41,8 +41,9 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python 3| Queue, Stack| Easy|
 |237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python 3|Linked List| Easy|
 |263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python 3| | Easy|
+|326| [Power of Three](/Easy/No_0326_Power%20of%20Three)| Java Script| | Easy|
 |342| [Power of Four](/Easy/No_0342_Power%20of%20Four)| Python 3| | Easy|
-|344| [Reverse String](/Easy/No_0344_Reverse%20String)| Python 3, JavaScript| | Easy|
+|344| [Reverse String](/Easy/No_0344_Reverse%20String)| Python 3,JavaScript| | Easy|
 |374|[Guess Number Higher or Lower](/Easy/No_0374_Guess%20Number%20Higher%20or%20Lower)| Python 3| Binary Search| Easy|
 |384|[Shuffle an Array](/Medium/No_0384_Shuffle%20an%20Array)|Python 3| | Medium|
 |412| [Fizz Buzz](/Easy/No_0412_Fizz%20Buzz)| Python 3| | Easy|
