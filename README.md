@@ -1,8 +1,10 @@
 # LeetCode
 
+<br>
 
 updating this repo with solutions to [LeetCode](https://leetcode.com/) problems on a daily basis for practice/modification purposes.
 
+<br>
 
 
 
@@ -39,6 +41,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | Python| Linked List | Easy|
 |215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python | | Medium|
 |225| [Implement Stack using Queues](/Easy/No_0225_Implement%20Stack%20using%20Queues)|Python | Stack| Easy|
+|231| [Power of Two](/Easy/No_0231_Power%20of%20Two) | JavaScript | | Easy|
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python | Queue, Stack| Easy|
 |237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python|Linked List| Easy|
 |263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python| | Easy|
