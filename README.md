@@ -45,6 +45,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python | Queue, Stack| Easy|
 |237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python|Linked List| Easy|
 |263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python| | Easy|
+|268| [Missing Number] (/Easy/No_0268_Missing%20Number)| JavaScript| Math| Easy|
 |326| [Power of Three](/Easy/No_0326_Power%20of%20Three)| JavaScript| | Easy|
 |342| [Power of Four](/Easy/No_0342_Power%20of%20Four)| Python | | Easy|
 |344| [Reverse String](/Easy/No_0344_Reverse%20String)|JavaScript| | Easy|
