@@ -16,7 +16,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |21| [Merge 2 Sorted Lists](/Easy/No_0021_Merge%202%20Sorted%20Lists)| Python 3| Linked List | Easy|
 |35| [Search Insert Position](/Easy/No_0035_Search%20Insert%20Position) | Python 3| Binary Search| Easy| 
 |46| [Permutations](/Medium/No_0046_Permutations) | Python 3| | Medium|
-|50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| Python 3| | Medium|
+|50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| JavaScript | | Medium|
 |67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python 3| Bitwise | Easy|
 |75| [Sort Colors](/Easy/No_0075_Sort%20Colors)| Python 3| Sorting| Easy|
 |80| [Remove Duplicates from Sorted Array II](/Medium/No_0080_Remove%20Duplicates%20from%20Sorted%20Array%20II)| Python 3| | Medium|
@@ -41,7 +41,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python 3| Queue, Stack| Easy|
 |237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python 3|Linked List| Easy|
 |263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python 3| | Easy|
-|326| [Power of Three](/Easy/No_0326_Power%20of%20Three)| Java Script| | Easy|
+|326| [Power of Three](/Easy/No_0326_Power%20of%20Three)| JavaScript| | Easy|
 |342| [Power of Four](/Easy/No_0342_Power%20of%20Four)| Python 3| | Easy|
 |344| [Reverse String](/Easy/No_0344_Reverse%20String)|JavaScript| | Easy|
 |374|[Guess Number Higher or Lower](/Easy/No_0374_Guess%20Number%20Higher%20or%20Lower)| Python 3| Binary Search| Easy|
