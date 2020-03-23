@@ -37,6 +37,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |160| [Intersection of Two Linked Lists](/Easy/No_0160_Intersection%20of%20Two%20Linked%20Lists) | Python | Linked List| Easy|
 |167| [Two Sum II ](/Easy/No_0167_Two%20Sum%20II)| Python| Hash Map| Easy|
 |169| [MajorityElement](/Easy/No_0169_Majority%20Element)| Python | | Easy|
+|173| [Binary Search Tree Iterator](/Medium/No_0173_Binary%20Search%20Tree%20Iterator)| Python| Binary Tree, Queue| Medium|
 |189| [Rotate Array](/Easy/No_0189_Rotate%20Array) | Python | | Easy|
 |203|[Remove Linked List Elements](/Easy/No_0203_Remove%20Linked%20List%20Elements)| Python | Linked List | Easy|
 |206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | Python| Linked List | Easy|
