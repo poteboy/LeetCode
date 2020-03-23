@@ -15,6 +15,7 @@ class Solution:
         ans = []
         hashmap = {}
         for key, val in enumerate(nums):
+            #getは値が存在しない場合でもNoneを返してくれる。(hashmap[val]だと存在しない場合エラーになる)       
             if hashmap.get(val) is None:
                 hashmap[target - val] = key
             else:
