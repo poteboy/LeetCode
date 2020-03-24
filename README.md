@@ -39,6 +39,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |169| [MajorityElement](/Easy/No_0169_Majority%20Element)| Python | | Easy|
 |173| [Binary Search Tree Iterator](/Medium/No_0173_Binary%20Search%20Tree%20Iterator)| Python| Binary Tree, Queue| Medium|
 |189| [Rotate Array](/Easy/No_0189_Rotate%20Array) | Python | | Easy|
+|202| [Happy Number](/Easy/No_0202_Happy%20Number)|Python 3| Recrursion| Easy|
 |203|[Remove Linked List Elements](/Easy/No_0203_Remove%20Linked%20List%20Elements)| Python | Linked List | Easy|
 |206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | Python| Linked List | Easy|
 |215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python | | Medium|
