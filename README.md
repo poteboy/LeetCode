@@ -30,6 +30,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |104| [Maximum Depth of Binary Tree](/Easy/No_0104_Maximum%20Depth%20of%20Binary%20Tree) | JavaScript | Binary Tree | Easy|
 |109| [Convert Sorted List to Binary Search Tree](/Medium/No_0109_Convert%20Sorted%20List%20to%20Binary%20Search%20Tree)| Python | Linked List, Binary Tree| Medium|
 |111| [Minimum Depth of Binary Tree](/Easy/No_0111_Minimum%20Depth%20of%20Binary%20Tree)| Python | Binary Tree| Easy|
+|118| [Pascal's Triangle](/Easy/No_0118_Pascal's%20Triangle) |Python| | Easy|
 |136| [Single Number](/Easy/No_0136_Single%20Number)| Python | | Easy|
 |144| [Binary Tree Preorder Traversal](/Medium/No_0144_Binary%20Tree%20Preorder%20Traversal)| Python | Binary Tree| Medium|
 |153| [Find Minimum in Rotated Sorted Array](/Medium/No_0153_Find%20Minimum%20in%20Rotated%20Sorted%20Array)| Python | Binary Search| Medium|
@@ -39,7 +40,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |169| [MajorityElement](/Easy/No_0169_Majority%20Element)| Python | | Easy|
 |173| [Binary Search Tree Iterator](/Medium/No_0173_Binary%20Search%20Tree%20Iterator)| Python| Binary Tree, Queue| Medium|
 |189| [Rotate Array](/Easy/No_0189_Rotate%20Array) | Python | | Easy|
-|202| [Happy Number](/Easy/No_0202_Happy%20Number)|Python 3| Recrursion| Easy|
+|202| [Happy Number](/Easy/No_0202_Happy%20Number)|Python | Recrursion| Easy|
 |203|[Remove Linked List Elements](/Easy/No_0203_Remove%20Linked%20List%20Elements)| Python | Linked List | Easy|
 |206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | Python| Linked List | Easy|
 |215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python | | Medium|
