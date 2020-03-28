@@ -33,6 +33,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |118| [Pascal's Triangle](/Easy/No_0118_Pascal's%20Triangle) |Python| | Easy|
 |136| [Single Number](/Easy/No_0136_Single%20Number)| Python | | Easy|
 |144| [Binary Tree Preorder Traversal](/Medium/No_0144_Binary%20Tree%20Preorder%20Traversal)| Python | Binary Tree| Medium|
+|148| [Sort List](/Medium/No_0148_Sort%20List)| Python | Linked List, Merge Sort| Medium
 |153| [Find Minimum in Rotated Sorted Array](/Medium/No_0153_Find%20Minimum%20in%20Rotated%20Sorted%20Array)| Python | Binary Search| Medium|
 |155| [Min Stack](/Easy/No_0155_Min%20Stack)| Python | Stack | Easy|
 |160| [Intersection of Two Linked Lists](/Easy/No_0160_Intersection%20of%20Two%20Linked%20Lists) | Python | Linked List| Easy|
