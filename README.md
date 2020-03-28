@@ -16,7 +16,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |9| [Palindrome Number](/Easy/No_0009_Palindrome%20Number) | Python | |<font color="Green">Easy</font>|
 |19| [Remove Nth Node From End of List](/Medium/No_0019_Remove%20Nth%20Node%20From%20End%20of%20List)| Python | Linked List| <font color="Orange">Medium</font>| 
 |21| [Merge 2 Sorted Lists](/Easy/No_0021_Merge%202%20Sorted%20Lists)| Python | Linked List | Easy|
-|35| [Search Insert Position](/Easy/No_0035_Search%20Insert%20Position) | Python | Binary Search| Easy| 
+|35| [Search Insert Position](/Easy/No_0035_Search%20Insert%20Position) | JavaScript | Binary Search| Easy| 
 |46| [Permutations](/Medium/No_0046_Permutations) | Python | | Medium|
 |50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| JavaScript | | Medium|
 |67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python | Bitwise Operation | Easy|
