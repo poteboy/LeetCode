@@ -19,7 +19,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |35| [Search Insert Position](/Easy/No_0035_Search%20Insert%20Position) | Python | Binary Search| Easy| 
 |46| [Permutations](/Medium/No_0046_Permutations) | Python | | Medium|
 |50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| JavaScript | | Medium|
-|67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python | Bitwise | Easy|
+|67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python | Bitwise Operation | Easy|
 |75| [Sort Colors](/Easy/No_0075_Sort%20Colors)| Python | Sorting| Easy|
 |80| [Remove Duplicates from Sorted Array II](/Medium/No_0080_Remove%20Duplicates%20from%20Sorted%20Array%20II)| Python | | Medium|
 |81| [Search in Rotated Sorted Array II](/Medium/No_0081_Search%20in%20Rotated%20Sorted%20Array%20II)| Python | |Medium|
