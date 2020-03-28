@@ -34,3 +34,21 @@ var hasCycle = function(head) {
     }
     return false;
 };
+
+class ListNode{
+    constructor(val){
+        this.val = val;
+        this.next = null;
+    }
+}
+
+var node1 = new ListNode(3)
+var node2 = new ListNode(2)
+var node3 = new ListNode(0)
+var node4 = new ListNode(-4)
+node1.next = node2;
+node2.next = node3;
+node3.next = node4;
+node4.next = node2;
+
+console.log(hasCycle(node1));
