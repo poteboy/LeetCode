@@ -63,6 +63,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |384|[Shuffle an Array](/Medium/No_0384_Shuffle%20an%20Array)|Python | | Medium|
 |412| [Fizz Buzz](/Easy/No_0412_Fizz%20Buzz)| Python | | Easy|
 |445| [Add Two Numbers II](/Medium/No_0445_Add%20Two%20Numbers%20II)| Python| Linked List| Medium|
+|448| [Find All Numbers Disappeared in an Array](/Easy/No_0448_Find%20All%20Numbers%20Disappeared%20in%20an%20Array)| Python| Set Operation| Easy|
 |485| [Max Consecutive Ones](/Easy/No_0485_Max%20Consecutive%20Ones)| Python| | Easy|
 |557|[Reverse Words in a String III](/Easy/No_0557_Reverse%20Words%20in%20a%20String%20III)| Python | | Easy|
 |617| [Merge Two Binary Trees](/Easy/No_0617_Merge%20Two%20Binary%20Trees)| Python| Binary Tree| Easy|
