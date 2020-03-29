@@ -45,7 +45,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |189| [Rotate Array](/Easy/No_0189_Rotate%20Array) | Python | | Easy|
 |202| [Happy Number](/Easy/No_0202_Happy%20Number)|Python | Recrursion| Easy|
 |203|[Remove Linked List Elements](/Easy/No_0203_Remove%20Linked%20List%20Elements)| Python | Linked List | Easy|
-|206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | Python| Linked List | Easy|
+|206| [Reverse Linked List](/Easy/No_0206_Reverse%20Linked%20List) | JavaScript| Linked List | Easy|
 |215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python | | Medium|
 |225| [Implement Stack using Queues](/Easy/No_0225_Implement%20Stack%20using%20Queues)|Python | Stack| Easy|
 |226| [Invert Binary Tree](/Easy/No_0226_Invert%20Binary%20Tree)| JavaScript | Binary Tree | Easy|
