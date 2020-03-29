@@ -62,6 +62,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |374|[Guess Number Higher or Lower](/Easy/No_0374_Guess%20Number%20Higher%20or%20Lower)| Python | Binary Search| Easy|
 |384|[Shuffle an Array](/Medium/No_0384_Shuffle%20an%20Array)|Python | | Medium|
 |412| [Fizz Buzz](/Easy/No_0412_Fizz%20Buzz)| Python | | Easy|
+|442| [Find All Duplicates in an Array](/Medium/No_0442_Find%20All%20Duplicates%20in%20an%20Array)| Python| | Medium|
 |445| [Add Two Numbers II](/Medium/No_0445_Add%20Two%20Numbers%20II)| Python| Linked List| Medium|
 |448| [Find All Numbers Disappeared in an Array](/Easy/No_0448_Find%20All%20Numbers%20Disappeared%20in%20an%20Array)| Python| Set Operation| Easy|
 |485| [Max Consecutive Ones](/Easy/No_0485_Max%20Consecutive%20Ones)| Python| | Easy|
