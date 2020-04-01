@@ -66,6 +66,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |412| [Fizz Buzz](/Easy/No_0412_Fizz%20Buzz)| Python | | Easy|
 |442| [Find All Duplicates in an Array](/Medium/No_0442_Find%20All%20Duplicates%20in%20an%20Array)| Python| | Medium|
 |445| [Add Two Numbers II](/Medium/No_0445_Add%20Two%20Numbers%20II)| Python| Linked List| Medium|
+|476| [Number Complement](/Easy/No_0476_Number%20Complement)| Python| Bitwise Operation | Easy|
 |448| [Find All Numbers Disappeared in an Array](/Easy/No_0448_Find%20All%20Numbers%20Disappeared%20in%20an%20Array)| Python| Set Operation| Easy|
 |485| [Max Consecutive Ones](/Easy/No_0485_Max%20Consecutive%20Ones)| Python| | Easy|
 |557|[Reverse Words in a String III](/Easy/No_0557_Reverse%20Words%20in%20a%20String%20III)| Python | | Easy|
