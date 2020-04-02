@@ -34,7 +34,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |118| [Pascal's Triangle](/Easy/No_0118_Pascal's%20Triangle) |Python| | Easy|
 |136| [Single Number](/Easy/No_0136_Single%20Number)| Python | | Easy|
 |141| [Linked List Cycle](/Easy/No_0141_Linked%20List%20Cycle)| JavaScript| Linked List| Easy|
-|142| [Linked List Cycle II](/Medium/No_0142_Linked%20List%20Cycle%20II)| JavaScript| Linked List| Medium|
+|142| [Linked List Cycle II](/Medium/No_0142_Linked%20List%20Cycle%20II)| JavaScript| Floyd's cycle-finding algorithm| Medium|
 |144| [Binary Tree Preorder Traversal](/Medium/No_0144_Binary%20Tree%20Preorder%20Traversal)| Python | Binary Tree| Medium|
 |148| [Sort List](/Medium/No_0148_Sort%20List)| Python | Linked List, Merge Sort| Medium|
 |150| [Evaluate Reverse Polish Notation](/Medium/No_0150_Evaluate%20Reverse%20Polish%20Notation)| Python| | Medium|
