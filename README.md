@@ -6,7 +6,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 
 <br>
 
-
+### Algorithms
 
 | # | Title | Language | Topics |Difficulty | 
 |---| ----- | -------- | ---------- | ---------- |
@@ -76,3 +76,12 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |700| [Search in a Binary Search Tree](/Easy/No_0700_Search%20in%20a%20Binary%20Search%20Tree)| Python | Binary Tree| Easy|
 |876| [Middle of the Linked List](/Easy/No_0876_Middle%20of%20the%20Linked%20List)| Python| Linked List| Easy|
 |1365| [How Many Numbers Are Smaller Than the Current Number](/Easy/No_1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)| Python | | Easy|
+
+
+<br>
+
+### Database
+
+| # | Title | Language | Difficulty | 
+|---| ----- | -------- | ---------- |
+|182| [Duplicate Emails]() | MySQL| Easy|
