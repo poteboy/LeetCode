@@ -5,7 +5,6 @@
 updating this repo with solutions to [LeetCode](https://leetcode.com/) problems on a daily basis for practice/modification purposes.
 
 <br>
-<br>
 
 ### Database
 
@@ -13,7 +12,6 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |---| ----- | -------- | ---------- |
 |182| [Duplicate Emails]() | MySQL| Easy|
 
-<br>
 
 ### Algorithms
 
