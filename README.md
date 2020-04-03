@@ -6,6 +6,16 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 
 <br>
 
+<br>
+
+### Database
+
+| # | Title | Language | Difficulty | 
+|---| ----- | -------- | ---------- |
+|182| [Duplicate Emails]() | MySQL| Easy|
+
+<br>
+
 ### Algorithms
 
 | # | Title | Language | Topics |Difficulty | 
@@ -78,10 +88,3 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |1365| [How Many Numbers Are Smaller Than the Current Number](/Easy/No_1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)| Python | | Easy|
 
 
-<br>
-
-### Database
-
-| # | Title | Language | Difficulty | 
-|---| ----- | -------- | ---------- |
-|182| [Duplicate Emails]() | MySQL| Easy|
