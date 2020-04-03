@@ -1,13 +1,7 @@
 # LeetCode
 
 <br>
-
 updating this repo with solutions to [LeetCode](https://leetcode.com/) problems on a daily basis for practice/modification purposes.
-
-<br>
-
-<br>
-
 ### Database
 
 | # | Title | Language | Difficulty | 
