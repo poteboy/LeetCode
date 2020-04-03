@@ -11,6 +11,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 | # | Title | Language | Difficulty | 
 |---| ----- | -------- | ---------- |
 |182| [Duplicate Emails](/Easy/No_0182_Duplicate%20Emails) | MySQL| Easy|
+|595| [Big Countries](/Easy/No_0595_Big%20Countries) | MySQL | Easy|
 
 
 ### Algorithms
