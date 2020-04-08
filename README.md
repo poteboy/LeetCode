@@ -13,6 +13,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |175| [Combine Two Tables](/Easy/No_0175_Combine%20Two%20Tables)| MySQL| Easy|
 |182| [Duplicate Emails](/Easy/No_0182_Duplicate%20Emails) | MySQL| Easy|
 |595| [Big Countries](/Easy/No_0595_Big%20Countries) | MySQL | Easy|
+|596| [Classes More Than 5 Students](/Easy/No_0596_Classes%20More%20Than%205%20Students)| MySQL| Easy|
 
 
 ### Algorithms
