@@ -69,6 +69,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |258| [Add Digits](/Easy/No_0258_Add%20Digits)| JavaScript| | Easy|
 |263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python| | Easy|
 |268| [Missing Number](/Easy/No_0268_Missing%20Number)| JavaScript| Math| Easy|
+|287| [Find the Duplicate Number](/Medium/No_0287_Find%20the%20Duplicate%20Number)| Python| Math| Medium|
 |326| [Power of Three](/Easy/No_0326_Power%20of%20Three)| JavaScript| | Easy|
 |342| [Power of Four](/Easy/No_0342_Power%20of%20Four)| Python | | Easy|
 |344| [Reverse String](/Easy/No_0344_Reverse%20String)|JavaScript| | Easy|
