@@ -51,7 +51,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |144| [Binary Tree Preorder Traversal](/Medium/No_0144_Binary%20Tree%20Preorder%20Traversal)| Python | Binary Tree| Medium|
 |148| [Sort List](/Medium/No_0148_Sort%20List)| Python | Linked List, Merge Sort| Medium|
 |150| [Evaluate Reverse Polish Notation](/Medium/No_0150_Evaluate%20Reverse%20Polish%20Notation)| Python| | Medium|
-|153| [Find Minimum in Rotated Sorted Array](/Medium/No_0153_Find%20Minimum%20in%20Rotated%20Sorted%20Array)| Python | Binary Search| Medium|
+|153| [Find Minimum in Rotated Sorted Array](/Medium/No_0153_Find%20Minimum%20in%20Rotated%20Sorted%20Array)| JavaScript | Binary Search| Medium|
 |155| [Min Stack](/Easy/No_0155_Min%20Stack)| Python | Stack | Easy|
 |160| [Intersection of Two Linked Lists](/Easy/No_0160_Intersection%20of%20Two%20Linked%20Lists) | Python | Linked List| Easy|
 |167| [Two Sum II ](/Easy/No_0167_Two%20Sum%20II)| Python| Hash Map| Easy|
