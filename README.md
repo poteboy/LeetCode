@@ -35,6 +35,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |53| [Maximum Subarray](/Easy/No_0053_Maximum%20Subarray)| Python | Kadane's Algorithm| Easy| 
 |67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python | Bitwise Operation | Easy|
 |75| [Sort Colors](/Easy/No_0075_Sort%20Colors)| Python | Sorting| Easy|
+|78| [Subsets](/Medium/No_0078_Subsets)| Python| | Medium|
 |80| [Remove Duplicates from Sorted Array II](/Medium/No_0080_Remove%20Duplicates%20from%20Sorted%20Array%20II)| Python | | Medium|
 |81| [Search in Rotated Sorted Array II](/Medium/No_0081_Search%20in%20Rotated%20Sorted%20Array%20II)| Python | |Medium|
 |82| [Remove Duplicates from Sorted List II](/Medium/No_0082_Remove%20Duplicates%20from%20Sorted%20List%20II) |Python |Linked List | Medium|
