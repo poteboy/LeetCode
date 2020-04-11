@@ -47,6 +47,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |104| [Maximum Depth of Binary Tree](/Easy/No_0104_Maximum%20Depth%20of%20Binary%20Tree) | JavaScript | Binary Tree | Easy|
 |109| [Convert Sorted List to Binary Search Tree](/Medium/No_0109_Convert%20Sorted%20List%20to%20Binary%20Search%20Tree)| Python | Linked List, Binary Tree| Medium|
 |111| [Minimum Depth of Binary Tree](/Easy/No_0111_Minimum%20Depth%20of%20Binary%20Tree)| Python | Binary Tree| Easy|
+|119| [Pascal's Triangle II](/Easy/No_0119_Pascal's%20Triangle%20II)| JavaScript| | Easy|
 |118| [Pascal's Triangle](/Easy/No_0118_Pascal's%20Triangle) |Python| | Easy|
 |136| [Single Number](/Easy/No_0136_Single%20Number)| Python | | Easy|
 |141| [Linked List Cycle](/Easy/No_0141_Linked%20List%20Cycle)| JavaScript| Linked List| Easy|
