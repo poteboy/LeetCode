@@ -70,7 +70,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |231| [Power of Two](/Easy/No_0231_Power%20of%20Two) | JavaScript | | Easy|
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python | Queue, Stack| Easy|
 |235| [Lowest Common Ancestor of a Binary Search Tree](/Easy/No_0235_Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)| JavaScript| Binary Tree| Easy|
-|237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Python|Linked List| Easy|
+|237| [Delete Node in a Linked List](/Easy/No_0237_Delete%20Node%20in%20a%20Linked%20List)| Ruby|Linked List| Easy|
 |258| [Add Digits](/Easy/No_0258_Add%20Digits)| JavaScript| | Easy|
 |263| [Ugly Number](/Easy/No_0263_Ugly%20Number) | Python| | Easy|
 |268| [Missing Number](/Easy/No_0268_Missing%20Number)| JavaScript| Math| Easy|
