@@ -88,6 +88,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |448| [Find All Numbers Disappeared in an Array](/Easy/No_0448_Find%20All%20Numbers%20Disappeared%20in%20an%20Array)| Python| Set Operation| Easy|
 |485| [Max Consecutive Ones](/Easy/No_0485_Max%20Consecutive%20Ones)| Python| | Easy|
 |500| [Keyboard Row](/Easy/No_0500_Keyboard%20Row)| Python| Set Operation| Easy|
+|501| [Find Mode in Binary Search Tree](/Easy/No_501_Find%20Mode%20in%20Binary%20Search%20Tree)| Binary Tree| Easy|
 |557|[Reverse Words in a String III](/Easy/No_0557_Reverse%20Words%20in%20a%20String%20III)| Python | | Easy|
 |617| [Merge Two Binary Trees](/Easy/No_0617_Merge%20Two%20Binary%20Trees)| Python| Binary Tree| Easy|
 |700| [Search in a Binary Search Tree](/Easy/No_0700_Search%20in%20a%20Binary%20Search%20Tree)| Python | Binary Tree| Easy|
