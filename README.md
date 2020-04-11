@@ -14,6 +14,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |181| [Employees Earning More Than Their Managers](/Easy/No_0181_Employees%20Earning%20More%20Than%20Their%20Managers)| MySQL| Easy|
 |183| [Customers Who Never Order](/Easy/No_0183_Customers%20Who%20Never%20Order)| MySQL| Easy|
 |182| [Duplicate Emails](/Easy/No_0182_Duplicate%20Emails) | MySQL| Easy|
+|196| [Delete Duplicate Emails](/Easy/No_0196_Delete%20Duplicate%20Emails)| MySQL| Easy|
 |595| [Big Countries](/Easy/No_0595_Big%20Countries) | MySQL | Easy|
 |596| [Classes More Than 5 Students](/Easy/No_0596_Classes%20More%20Than%205%20Students)| MySQL| Easy|
 
