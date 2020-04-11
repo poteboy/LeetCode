@@ -94,6 +94,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |617| [Merge Two Binary Trees](/Easy/No_0617_Merge%20Two%20Binary%20Trees)| Python| Binary Tree| Easy|
 |700| [Search in a Binary Search Tree](/Easy/No_0700_Search%20in%20a%20Binary%20Search%20Tree)| Python | Binary Tree| Easy|
 |876| [Middle of the Linked List](/Easy/No_0876_Middle%20of%20the%20Linked%20List)| Python| Linked List| Easy|
+|1221| [Split a String in Balanced Strings](/Easy/No_1221_Split%20a%20String%20in%20Balanced%20Strings)| Ruby| | Easy|
 |1365| [How Many Numbers Are Smaller Than the Current Number](/Easy/No_1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)| Python | | Easy|
 
 
