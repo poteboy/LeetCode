@@ -19,7 +19,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |596| [Classes More Than 5 Students](/Easy/No_0596_Classes%20More%20Than%205%20Students)| MySQL| Easy|
 |620| [Not Boring Movies](/Easy/No_0620_Not%20Boring%20Movies)| MySQL| Easy|
 
-### Algorithms
+### Algorithms & Data Structures
 
 | # | Title | Language | Topics |Difficulty | 
 |---| ----- | -------- | ---------- | ---------- |
