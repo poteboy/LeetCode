@@ -1,6 +1,6 @@
 
-Runtime: 28 ms, faster than 65.82% of Python3 online submissions for Binary Tree Postorder Traversal.
-Memory Usage: 13.7 MB, less than 5.72% of Python3 online submissions for Binary Tree Postorder Traversal.
+#Runtime: 28 ms, faster than 65.82% of Python3 online submissions for Binary Tree Postorder Traversal.
+#Memory Usage: 13.7 MB, less than 5.72% of Python3 online submissions for Binary Tree Postorder Traversal.
 
 # Definition for a binary tree node.
 # class TreeNode:
