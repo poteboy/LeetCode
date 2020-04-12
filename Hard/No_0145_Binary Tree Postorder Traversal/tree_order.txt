@@ -1,0 +1,20 @@
+
+                        1
+                       / \
+                      2    3
+                     / \   / \
+                    4   5  6   7
+
+Pre Order Traversal
+    Node ➤ left ➤ right
+    [1, 2, 4, 5, 3, 6, 7]
+
+In Order Traversal:
+    left ➤ Node ➤ right
+    [4, 2, 5, 1, 6, 3, 7]
+    
+    
+Post Order Traversal
+    left ➤ right ➤ Node
+    [4, 5, 2, 6, 7, 3, 1]
+  
