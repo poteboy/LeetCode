@@ -53,7 +53,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |141| [Linked List Cycle](/Easy/No_0141_Linked%20List%20Cycle)| JavaScript| Linked List| Easy|
 |142| [Linked List Cycle II](/Medium/No_0142_Linked%20List%20Cycle%20II)| JavaScript| Floyd's algorithm| Medium|
 |144| [Binary Tree Preorder Traversal](/Medium/No_0144_Binary%20Tree%20Preorder%20Traversal)| Python | Binary Tree| Medium|
-|145| [Binary Tree Postorder Traversal](/Hard/No_0145_Binary%20Tree%20Postorder%20Traversal)| Python| Binary Tree| Hard|
+|145| [Binary Tree Postorder Traversal](/Hard/No_0145_Binary%20Tree%20Postorder%20Traversal)| Ruby| Binary Tree| Hard|
 |147| [Insertion Sort List](/Medium/No_0147_Insertion%20Sort%20List)| Python| Linked List Sorting| Medium|
 |148| [Sort List](/Medium/No_0148_Sort%20List)| Python | Linked List, Merge Sort| Medium|
 |150| [Evaluate Reverse Polish Notation](/Medium/No_0150_Evaluate%20Reverse%20Polish%20Notation)| Python| | Medium|
