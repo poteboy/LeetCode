@@ -32,6 +32,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |21| [Merge 2 Sorted Lists](/Easy/No_0021_Merge%202%20Sorted%20Lists)| Python | Linked List | Easy|
 |35| [Search Insert Position](/Easy/No_0035_Search%20Insert%20Position) | JavaScript | Binary Search| Easy| 
 |46| [Permutations](/Medium/No_0046_Permutations) | Python | | Medium|
+|47| [Permutations II](/Medium/No_0047_Permutations%20II)| Python| | Medium|
 |50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| JavaScript | | Medium|
 |53| [Maximum Subarray](/Easy/No_0053_Maximum%20Subarray)| Python | Kadane's Algorithm| Easy| 
 |67|[Add Binary](/Easy/No_0067_Add%20Binary)| Python | Bitwise Operation | Easy|
