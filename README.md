@@ -50,6 +50,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |107| [Binary Tree Level Order Traversal II](/Easy/No_0107_Binary%20Tree%20Level%20Order%20Traversal%20II)| Python| Binary Tree| Easy|
 |109| [Convert Sorted List to Binary Search Tree](/Medium/No_0109_Convert%20Sorted%20List%20to%20Binary%20Search%20Tree)| Python | Linked List, Binary Tree| Medium|
 |111| [Minimum Depth of Binary Tree](/Easy/No_0111_Minimum%20Depth%20of%20Binary%20Tree)| Python | Binary Tree| Easy|
+|112| [Path Sum](/Easy/No_0112._Path%20Sum) | Python| Binary Tree| Easy|
 |119| [Pascal's Triangle II](/Easy/No_0119_Pascal's%20Triangle%20II)| JavaScript| | Easy|
 |118| [Pascal's Triangle](/Easy/No_0118_Pascal's%20Triangle) |Python| | Easy|
 |125| [Valid Palindrome](/Easy/No_0125_Valid%20Palindrome)| Python| | Easy|
