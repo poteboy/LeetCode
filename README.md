@@ -30,6 +30,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |19| [Remove Nth Node From End of List](/Medium/No_0019_Remove%20Nth%20Node%20From%20End%20of%20List)| Python | Linked List| <font color="Orange">Medium</font>| 
 |20| [Valid Parentheses](/Easy/No_0020_Valid%20Parentheses)| JavaScript| Stack| Easy|
 |21| [Merge 2 Sorted Lists](/Easy/No_0021_Merge%202%20Sorted%20Lists)| Python | Linked List | Easy|
+|23| [Merge k Sorted Lists](/Hard/No_0023_Merge%20k%20Sorted%20Lists) | Python| Linked List| Hard|
 |35| [Search Insert Position](/Easy/No_0035_Search%20Insert%20Position) | JavaScript | Binary Search| Easy| 
 |46| [Permutations](/Medium/No_0046_Permutations) | Python | | Medium|
 |47| [Permutations II](/Medium/No_0047_Permutations%20II)| Python| | Medium|
