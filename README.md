@@ -25,6 +25,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |---| ----- | -------- | ---------- | ---------- |
 | 1 | [Two Sum](/Easy/No_0001_Two%20Sum)| Python | Hash Map| <font color="Green">Easy</font>|
 |2| [Add Two Numbers](/Medium/No_0002_Add%20Two%20Numbers)| Python | Linked List | <font color="Orange">Medium</font> |
+|3| [Longest Substring Without Repeating Characters](/Medium/No_0003_Longest%20Substring%20Without%20Repeating%20Characters)| Python| Sliding Window| Medium|
 |7| [Reverse Integer](/Easy/No_0007_Reverse%20Integer) | Python |   | <font color="Green">Easy</font>|
 |9| [Palindrome Number](/Easy/No_0009_Palindrome%20Number) | Ruby | |<font color="Green">Easy</font>|
 |19| [Remove Nth Node From End of List](/Medium/No_0019_Remove%20Nth%20Node%20From%20End%20of%20List)| Python | Linked List| <font color="Orange">Medium</font>| 
