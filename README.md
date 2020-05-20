@@ -49,7 +49,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |100| [Same Tree](/Easy/No_0100_Same%20Tree) | Ruby | Binary Tree | Easy|
 |101| [Symmetric Tree](/Easy/No_0101_Symmetric%20Tree)| Python| Binary Tree| Easy|
 |102| [Binary Tree Level Order Traversal](/Medium/No_0102_Binary%20Tree%20Level%20Order%20Traversal)| Python| Binary Tree| Medium|
-|104| [Maximum Depth of Binary Tree](/Easy/No_0104_Maximum%20Depth%20of%20Binary%20Tree) | JavaScript | Binary Tree | Easy|
+|104| [Maximum Depth of Binary Tree](/Easy/No_0104_Maximum%20Depth%20of%20Binary%20Tree) | Go | Binary Tree | Easy|
 |107| [Binary Tree Level Order Traversal II](/Easy/No_0107_Binary%20Tree%20Level%20Order%20Traversal%20II)| Python| Binary Tree| Easy|
 |109| [Convert Sorted List to Binary Search Tree](/Medium/No_0109_Convert%20Sorted%20List%20to%20Binary%20Search%20Tree)| Python | Linked List, Binary Tree| Medium|
 |111| [Minimum Depth of Binary Tree](/Easy/No_0111_Minimum%20Depth%20of%20Binary%20Tree)| Python | Binary Tree| Easy|
