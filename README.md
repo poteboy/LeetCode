@@ -23,7 +23,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 
 | # | Title | Language | Topics |Difficulty | 
 |---| ----- | -------- | ---------- | ---------- |
-| 1 | [Two Sum](/Easy/No_0001_Two%20Sum)| Python | Hash Map| <font color="Green">Easy</font>|
+| 1 | [Two Sum](/Easy/No_0001_Two%20Sum)| Go | Hash Map| <font color="Green">Easy</font>|
 |2| [Add Two Numbers](/Medium/No_0002_Add%20Two%20Numbers)| Python | Linked List | <font color="Orange">Medium</font> |
 |3| [Longest Substring Without Repeating Characters](/Medium/No_0003_Longest%20Substring%20Without%20Repeating%20Characters)| Python| Sliding Window| Medium|
 |4| [Median of Two Sorted Arrays](/Hard/No_0004_Median%20of%20Two%20Sorted%20Arrays)| Python | | Hard|
