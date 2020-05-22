@@ -78,7 +78,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |215| [Kth Largest Element in an Array](/Medium/No_0215_Kth%20Largest%20Element%20in%20an%20Array)| Python | | Medium|
 |222| [Count Complete Tree Nodes](/Medium/No_0222_Count%20Complete%20Tree%20Nodes)| Python| Binary Tree| Medium|
 |225| [Implement Stack using Queues](/Easy/No_0225_Implement%20Stack%20using%20Queues)|Python | Stack| Easy|
-|226| [Invert Binary Tree](/Easy/No_0226_Invert%20Binary%20Tree)| JavaScript | Binary Tree | Easy|
+|226| [Invert Binary Tree](/Easy/No_0226_Invert%20Binary%20Tree)| Go | Binary Tree | Easy|
 |231| [Power of Two](/Easy/No_0231_Power%20of%20Two) | JavaScript | | Easy|
 |232| [Implement Queue using Stacks](/Easy/No_0232_Implement%20Queue%20using%20Stacks)|Python | Queue, Stack| Easy|
 |235| [Lowest Common Ancestor of a Binary Search Tree](/Easy/No_0235_Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)| JavaScript| Binary Tree| Easy|
