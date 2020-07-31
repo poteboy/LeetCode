@@ -21,8 +21,8 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 
 ### Algorithms & Data Structures
 
-| # | Title | Language | Topics |Difficulty | 
-|---| ----- | -------- | ---------- | ---------- |
+| # | Title | Topics |Difficulty | 
+|---| ----- |  ---------- | ---------- |
 | 1 | [Two Sum](/Easy/No_0001_Two%20Sum)| Hash Map| <font color="Green">Easy</font>|
 |2| [Add Two Numbers](/Medium/No_0002_Add%20Two%20Numbers)| Linked List | <font color="Orange">Medium</font> |
 |3| [Longest Substring Without Repeating Characters](/Medium/No_0003_Longest%20Substring%20Without%20Repeating%20Characters)|   Sliding Window| Medium|
@@ -37,7 +37,7 @@ updating this repo with solutions to [LeetCode](https://leetcode.com/) problems 
 |46| [Permutations](/Medium/No_0046_Permutations) | | Medium|
 |47| [Permutations II](/Medium/No_0047_Permutations%20II)| | Medium|
 |50| [Pow(x, n)](/Medium/No_0050_Pow(x,%20n))| | Medium|
-|53| [Maximum Subarray](/Easy/No_0053_Maximum%20Subarray)| Python | Kadane's Algorithm| Easy| 
+|53| [Maximum Subarray](/Easy/No_0053_Maximum%20Subarray)| Kadane's Algorithm| Easy| 
 |67|[Add Binary](/Easy/No_0067_Add%20Binary)| Bitwise Operation | Easy|
 |75| [Sort Colors](/Easy/No_0075_Sort%20Colors)| Sorting| Easy|
 |78| [Subsets](/Medium/No_0078_Subsets)| | Medium|
